@@ -1,0 +1,10 @@
+1 Olá, estou estudando python!
+2 Olá, estou estudando python!
+3 Olá, estou estudando python!
+4 Olá, estou estudando python!
+5 Olá, estou estudando python!
+6 Olá, estou estudando python!
+7 Olá, estou estudando python!
+8 Olá, estou estudando python!
+9 Olá, estou estudando python!
+10 Olá, estou estudando python!

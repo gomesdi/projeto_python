@@ -1,0 +1,2 @@
+Estudar arquivos em Python
+Praticar o uso de with
