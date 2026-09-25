@@ -80,11 +80,11 @@ Para rodar qualquer um dos exemplos ou scripts criados durante este estudo, siga
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/gomesdi/projeto_python.git
    ```
 2. **Navegue até a pasta do projeto:**
    ```bash
-   cd seu-repositório-python
+   cd projeto_python
    ```
 3. **Crie e ative seu ambiente virtual:**
    ```bash
@@ -100,8 +100,9 @@ Para rodar qualquer um dos exemplos ou scripts criados durante este estudo, siga
    ```
 5. **Execute um script:**
    ```bash
-   python nome_do_arquivo.py
+   python 01.sintaxe_basica.py
    ```
+   *(Substitua o nome do script para rodar outros arquivos do repositório).*
 
 ---
 
